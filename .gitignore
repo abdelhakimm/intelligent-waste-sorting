@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Flutter
+.dart_tool/
+.packages
+pubspec.lock
+
+# Docker
+*.env
+docker-compose.override.yml
